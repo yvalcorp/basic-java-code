@@ -25,4 +25,10 @@
     <marquee style="position:relative;left:317px;top:-6003px;height:480px;" scrollamount="5" direction="down">Infrastructure as Code...</marquee>
     </div>
 
-    <img src="yvalcorp.png" alt="Yvalcorp Logo" width="1000" height="300">
+    <style>
+        img {
+          width: 100%;
+        }
+    </style>
+
+    <img src="yvalcorp.png" alt="Yvalcorp Logo" width="1000" height="300" align="middle">
