@@ -31,4 +31,4 @@
         }
     </style>
 
-    <img src="yvalcorp.png" alt="Yvalcorp Logo" width="1000" height="300" align="middle">
+    <img src="yvalcorp.png" alt="Yvalcorp Logo" width="1000" height="300" align="top">
