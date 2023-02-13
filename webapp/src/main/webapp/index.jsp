@@ -1,5 +1,5 @@
 <h3> Hello, Welcome to Yvalcorp </h3>
-<marquee behavior="scroll" direction="left"><h5>Hope you're enjoying the lab<h5></marquee>
+<marquee behavior="scroll" direction="left"><h5>Hope you're enjoying the lab</h5></marquee>
 
 <style>
     img {
