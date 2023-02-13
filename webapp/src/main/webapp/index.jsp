@@ -3,11 +3,11 @@
 
 <style>
     img {
-      width: 100%;
+      width: 75%;
     }
 </style>
 
-<img src="yvalcorp.png" alt="Yvalcorp Logo" width="1000" height="300" align="right">
+<img src="yvalcorp.png" alt="Yvalcorp Logo" width="600" height="300" align="right">
 
 <div style="max-height:1000px;font-family:Cursive;font-size:14pt;color:gold;">
     <marquee style="position:relative;left:122px;top:0px;height:397px;" scrollamount="6" direction="down">DevOps is fire...</marquee>
